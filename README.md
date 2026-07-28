@@ -1,6 +1,6 @@
 # 👋 Welcome to My Healthcare Analytics Portfolio
 
-Hi, I'm **Chidinma Agu**, a Registered Nurse transitioning into Healthcare Data Analytics.
+Hi, I'm **Chidinma Agu**, a Registered Nurse transitioned into Healthcare Data Analytics.
 
 I combine clinical experience with data analytics to transform healthcare data into meaningful insights that support evidence-based decision-making and improve patient outcomes.
 
@@ -20,7 +20,7 @@ I combine clinical experience with data analytics to transform healthcare data i
 - SQL (PostgreSQL)
 - Power BI
 - Microsoft Excel
-- Data Visualization
+- Data Visualisation
 - Healthcare Analytics
 - Clinical Data Interpretation
 
